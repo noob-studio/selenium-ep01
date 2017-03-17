@@ -13,7 +13,7 @@ npm install
 ## Running the tests
 
 ```
-Give an example
+node index.js
 ```
 ## Authors
 
