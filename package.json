@@ -1,0 +1,25 @@
+{
+  "name": "selenium-ep01",
+  "version": "1.0.0",
+  "description": "Selenium example EP01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noob-studios/selenium-ep01.git"
+  },
+  "keywords": [
+    "selenium"
+  ],
+  "author": "freeweed",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/noob-studios/selenium-ep01/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "selenium-webdriver": "^3.3.0"
+  }
+}
